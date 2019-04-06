@@ -21,7 +21,7 @@
 
 ---
 
-#### Mom-Dada - Avatar Design
+#### Mom-Dad - Avatar Design
 ![](Mamma-Daddy-6.jpg)
 
 ---
@@ -77,32 +77,32 @@
 ---
 
 #### Venish Patel(2) - Logo Design
-![](VenishPatel-3.png)
-
----
-
-#### Venish Patel(3) - Logo Design
 ![](VenishPatel-4.png)
 
 ---
 
+#### Venish Patel(3) - Logo Design
+![](VenishLogo.jpg)
+
+---
+
 #### Venish Patel(4) - Logo Design
-![](W_Material_logo3.jpg)
-
----
-
-#### Venish Patel(5) - Logo Design
-![](W_Material_logo4.jpg)
-
----
-
-#### Venish Patel(6) - Logo Design
 ![](W_round_logo1.jpg)
 
 ---
 
+#### Venish Patel(5) - Logo Design
+![](VenishPatel-3.png)
+
+---
+
+#### Venish Patel(6) - Logo Design
+![](W_Material_logo3.jpg)
+
+---
+
 #### Venish Patel(7) - Logo Design
-![](VenishLogo.jpg)
+![](W_Material_logo4.jpg)
 
 ---
 
