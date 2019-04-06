@@ -1,5 +1,5 @@
 # Designing
-##OnePlusX
+## OnePlusX
 ![](OnePlusX.jpg)
 
 ![](DellXPS15Top.jpg)
