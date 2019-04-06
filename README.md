@@ -1,17 +1,17 @@
 # VENISH PATEL | Programmer & Designer
 ---
 
-#### OnePlusX
+##### OnePlusX
 ![](OnePlusX.jpg)
 
 ---
 
-### Venish Typography - Vector Design
+##### Venish Typography - Vector Design
 ![](Venish-1.jpg)
 
 ---
 
-### Venish Face - Avatar Design(1)
+##### Venish Face - Avatar Design(1)
 ![](VenishAvatar-5.png)
 
 ---
