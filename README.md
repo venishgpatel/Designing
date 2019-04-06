@@ -21,6 +21,18 @@
 ### Mom-Dada - Avatar Design
 ![](Mamma-Daddy-6.jpg)
 
+### Olympic Logo
+![](Olympic.jpg)
+
+### Website Homepage Concept(1)
+![](Wanice_website.jpg)
+
+### Website Homepage Concept(2)
+![](Wanice_website.png)
+
+### Website Homepage Concept(3)
+![](Mysite2.jpg)
+
 ### Venish Patel(1) - Logo Design
 ![](VenishPatel-5.jpg)
 
@@ -44,8 +56,8 @@
 
 
 
-![](Mysite2.jpg)
-![](Olympic.jpg)
+
+
 
 
 
@@ -53,13 +65,10 @@
 ![](VenishLogo.jpg)
 ![](VenishLogo1.jpg)
 ![](VenishLogo11.jpg)
-![](VenishLogo2.png)
+
 ![](VenishLogo3.png)
-![](VenishLogo4.png)
-![](VenishLogo5.png)
 
 
 
-![](Wanice_website.jpg)
-![](Wanice_website.png)
+
 
