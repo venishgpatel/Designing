@@ -1,4 +1,7 @@
 # Designing
+##OnePlusX
+![](OnePlusX.jpg)
+
 ![](DellXPS15Top.jpg)
 ![](HpSpectre13-2016.png)
 ![](HpSpectre13-Top-2016-1.jpg)
@@ -7,7 +10,7 @@
 ![](Mamma-Daddy-6.jpg)
 ![](Mysite2.jpg)
 ![](Olympic.jpg)
-![](OnePlusX.jpg)
+
 ![](Venish-1.jpg)
 ![](VenishAvatar-4.jpg)
 ![](VenishAvatar-5.png)
