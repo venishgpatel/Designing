@@ -1,10 +1,7 @@
----
 # VENISH PATEL | Programmer & Designer
 ---
 
-
----
-### OnePlusX
+#### OnePlusX
 ![](OnePlusX.jpg)
 
 ---
