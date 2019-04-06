@@ -1,6 +1,9 @@
-# Designing
+---
+# VENISH PATEL | Programmer & Designer
+---
 
 
+---
 ### OnePlusX
 ![](OnePlusX.jpg)
 
